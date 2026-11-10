@@ -1,15 +1,10 @@
 <p align="center">
-  <img src="./assets/anuja-vintage-banner.svg" alt="Anuja Iduranga — vintage Greek-inspired profile banner" width="100%">
+  <img src="./assets/itachi-shillouette-in-front-of-the-red-moon_800.gif" alt="Samurai and dragon banner" width="200%">
 </p>
 
-<h1 align="center">ANUJA IDURANGA</h1>
-<p align="center"><em>Reliable by design · Curious by nature</em></p>
 
-<p align="center">
-  <strong>Χαλεπὰ τὰ καλά</strong><br>
-  <em>Beautiful things are difficult.</em><br>
-  <sub>Ancient Greek proverb · traditionally quoted by Plato</sub>
-</p>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anuja45555&label=PROFILE%20VISITORS&color=9b6044&style=flat" alt="Profile visitors">
@@ -17,8 +12,6 @@
 
 ---
 
-<h2 align="center">THE WORKS IN PROGRESS</h2>
-<p align="center"><em>Learning, building, and improving one commit at a time.</em></p>
 
 <p align="center">
   <a href="https://github.com/Anuja45555?tab=repositories">
