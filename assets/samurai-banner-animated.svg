@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 400" width="1200" height="400">
+  <defs>
+    <clipPath id="clip"><rect width="1200" height="400" rx="18"/></clipPath>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="400" fill="#090909"/>
+    <image x="0" y="0" width="1200" height="400" preserveAspectRatio="xMidYMid slice" href="https://blog.sxsea.cn/usr/uploads/2024/12/3905018313.png">
+      <animateTransform attributeName="transform" type="scale" values="1;1.035;1" dur="8s" repeatCount="indefinite"/>
+    </image>
+    <rect width="1200" height="400" fill="#000" opacity=".16">
+      <animate attributeName="opacity" values=".12;.24;.12" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="970" cy="95" r="3" fill="#fff" filter="url(#glow)">
+      <animate attributeName="cx" values="900;1080;900" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="120;75;120" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;.9;0" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="0" y="0" width="1200" height="400" fill="none" stroke="#b40000" stroke-width="2" opacity=".65">
+      <animate attributeName="opacity" values=".35;.9;.35" dur="3s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
