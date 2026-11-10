@@ -22,11 +22,6 @@
   <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,git,github,vscode" alt="Skills" />
 </p>
 
-## ⚔️ Samurai GIF
-
-<p align="center">
-  <img src="./assets/itachi-shillouette-in-front-of-the-red-moon_800.gif" alt="Samurai GIF" width="100%">
-</p>
 
 ## 📊 GitHub Stats
 
