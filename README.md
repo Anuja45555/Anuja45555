@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/itachi-shillouette-in-front-of-the-red-moon_800.gif" alt="Samurai and dragon banner" width="200%">
+  <img src="./assets/itachi-shillouette-in-front-of-the-red-moon_800.gif" alt="Samurai and dragon banner" width="400%">
 </p>
 
 
