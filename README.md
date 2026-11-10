@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/samurai-animated.svg" alt="Samurai and dragon banner" width="100%">
+  <img src="./assets/itachi-shillouette-in-front-of-the-red-moon_800.gif" alt="Samurai and dragon banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Anuja</h1>
