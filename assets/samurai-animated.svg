@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" width="1200" height="500">
+  <defs>
+    <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="shine" x1="0" x2="1"><stop offset="0" stop-opacity="0"/><stop offset=".5" stop-opacity=".45"/><stop offset="1" stop-opacity="0"/></linearGradient>
+  </defs>
+  <image href="https://blog.sxsea.cn/usr/uploads/2024/12/3905018313.png" x="0" y="0" width="1200" height="500" preserveAspectRatio="xMidYMid slice"/>
+  <circle cx="930" cy="115" r="38" fill="#d71920" opacity=".22" filter="url(#glow)">
+    <animate attributeName="r" values="32;46;32" dur="2.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".12;.38;.12" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <rect x="-300" y="0" width="300" height="500" fill="url(#shine)" opacity=".35">
+    <animate attributeName="x" values="-300;1200" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <path d="M720 360 L1110 125" stroke="#fff" stroke-width="3" opacity=".65" filter="url(#glow)">
+    <animate attributeName="opacity" values=".15;.85;.15" dur="1.8s" repeatCount="indefinite"/>
+  </path>
+</svg>
